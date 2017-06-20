@@ -1,0 +1,12 @@
+div.is-abs {
+  position: absolute !important;
+  left: 15px !important;
+  width: 290px !important;
+}
+
+div.is-fixed {
+  position: fixed !important;
+  top: 0px !important;
+  left: 0px !important;
+  width: 320px !important;
+}

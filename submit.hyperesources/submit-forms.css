@@ -1,0 +1,73 @@
+form.radios.small label {
+  font-size: 14px !important;
+}
+
+#applicants-type form.radios label {
+  width: 55% !important;
+}
+
+#applicants-type form.radios label.left {
+  width: 45% !important;
+}
+
+form.radios.listed label.long {
+  height: 30px !important;
+  padding-left: 30px !important;
+}
+
+form.radios.listed label.long input {
+  margin-left: -30px;
+}
+
+#file span {
+  display: block;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#file .name {
+  font-weight: bold;
+}
+
+#attachment-modal {
+  position: fixed !important;
+}
+
+#divider {
+  background-color: #cccccc;
+}
+
+#submit-confirm, #submit-confirm2 {
+  position: fixed !important;
+  overflow: hidden !important;
+  display: none;
+  top: 50% !important;
+  margin-top: -222px !important;
+}
+
+#submit-confirm2 {
+  display: none !important;
+}
+
+#overlay-3, #overlay-4 {
+  overflow: hidden !important;
+  display: none !important;
+}
+
+#submit-confirm.shown, #overlay-3.shown, #submit-confirm2.shown, #overlay-4.shown {
+  display: block !important;
+  overflow: visible !important;
+}
+
+div.is-abs {
+  position: absolute !important;
+  left: 15px !important;
+  width: 290px !important;
+}
+
+div.is-fixed {
+  position: fixed !important;
+  top: 0px !important;
+  left: 0px !important;
+  width: 320px !important;
+}
